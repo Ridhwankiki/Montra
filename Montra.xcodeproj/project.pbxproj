@@ -11,6 +11,21 @@
 		520B09FD2BD0DA7500C3E6F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520B09FC2BD0DA7500C3E6F0 /* ContentView.swift */; };
 		520B09FF2BD0DA7600C3E6F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 520B09FE2BD0DA7600C3E6F0 /* Assets.xcassets */; };
 		520B0A022BD0DA7600C3E6F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A012BD0DA7600C3E6F0 /* Preview Assets.xcassets */; };
+		520B0A102BD0DBA600C3E6F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A0F2BD0DBA600C3E6F0 /* LaunchScreen.storyboard */; };
+		520B0A1B2BD0F8AF00C3E6F0 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A122BD0F8AF00C3E6F0 /* Inter-Regular.ttf */; };
+		520B0A1C2BD0F8AF00C3E6F0 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A132BD0F8AF00C3E6F0 /* Inter-SemiBold.ttf */; };
+		520B0A1D2BD0F8AF00C3E6F0 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A142BD0F8AF00C3E6F0 /* Inter-Bold.ttf */; };
+		520B0A1E2BD0F8AF00C3E6F0 /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A152BD0F8AF00C3E6F0 /* Inter-Thin.ttf */; };
+		520B0A1F2BD0F8AF00C3E6F0 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A162BD0F8AF00C3E6F0 /* Inter-Medium.ttf */; };
+		520B0A202BD0F8AF00C3E6F0 /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A172BD0F8AF00C3E6F0 /* Inter-Black.ttf */; };
+		520B0A212BD0F8AF00C3E6F0 /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A182BD0F8AF00C3E6F0 /* Inter-Light.ttf */; };
+		520B0A222BD0F8AF00C3E6F0 /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A192BD0F8AF00C3E6F0 /* Inter-ExtraBold.ttf */; };
+		520B0A232BD0F8AF00C3E6F0 /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A1A2BD0F8AF00C3E6F0 /* Inter-ExtraLight.ttf */; };
+		520B0A262BD0FB9900C3E6F0 /* Jacquard24-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 520B0A252BD0FB9900C3E6F0 /* Jacquard24-Regular.ttf */; };
+		520B0A292BD0FC7000C3E6F0 /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520B0A282BD0FC7000C3E6F0 /* Onboarding.swift */; };
+		520B0A2C2BD0FEF100C3E6F0 /* OnboardingSingleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520B0A2B2BD0FEF100C3E6F0 /* OnboardingSingleView.swift */; };
+		520B0A2E2BD1015200C3E6F0 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520B0A2D2BD1015200C3E6F0 /* OnboardingView.swift */; };
+		520B0A302BD105D900C3E6F0 /* CustomDotIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520B0A2F2BD105D900C3E6F0 /* CustomDotIndicator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,22 @@
 		520B09FC2BD0DA7500C3E6F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		520B09FE2BD0DA7600C3E6F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		520B0A012BD0DA7600C3E6F0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		520B0A0F2BD0DBA600C3E6F0 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		520B0A122BD0F8AF00C3E6F0 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		520B0A132BD0F8AF00C3E6F0 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		520B0A142BD0F8AF00C3E6F0 /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		520B0A152BD0F8AF00C3E6F0 /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		520B0A162BD0F8AF00C3E6F0 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		520B0A172BD0F8AF00C3E6F0 /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		520B0A182BD0F8AF00C3E6F0 /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		520B0A192BD0F8AF00C3E6F0 /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		520B0A1A2BD0F8AF00C3E6F0 /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		520B0A242BD0F9A200C3E6F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		520B0A252BD0FB9900C3E6F0 /* Jacquard24-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jacquard24-Regular.ttf"; sourceTree = "<group>"; };
+		520B0A282BD0FC7000C3E6F0 /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		520B0A2B2BD0FEF100C3E6F0 /* OnboardingSingleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingSingleView.swift; sourceTree = "<group>"; };
+		520B0A2D2BD1015200C3E6F0 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		520B0A2F2BD105D900C3E6F0 /* CustomDotIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDotIndicator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +82,11 @@
 		520B09F92BD0DA7500C3E6F0 /* Montra */ = {
 			isa = PBXGroup;
 			children = (
-				520B09FA2BD0DA7500C3E6F0 /* MontraApp.swift */,
-				520B09FC2BD0DA7500C3E6F0 /* ContentView.swift */,
-				520B09FE2BD0DA7600C3E6F0 /* Assets.xcassets */,
+				520B0A272BD0FC5C00C3E6F0 /* Model */,
+				520B0A242BD0F9A200C3E6F0 /* Info.plist */,
+				520B0A082BD0DA7B00C3E6F0 /* App */,
+				520B0A092BD0DA8100C3E6F0 /* View */,
+				520B0A0B2BD0DAA000C3E6F0 /* Resources */,
 				520B0A002BD0DA7600C3E6F0 /* Preview Content */,
 			);
 			path = Montra;
@@ -65,6 +98,76 @@
 				520B0A012BD0DA7600C3E6F0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		520B0A082BD0DA7B00C3E6F0 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				520B09FA2BD0DA7500C3E6F0 /* MontraApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		520B0A092BD0DA8100C3E6F0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				520B0A2A2BD0FED900C3E6F0 /* Component */,
+				520B0A0C2BD0DB0E00C3E6F0 /* Launch */,
+				520B09FC2BD0DA7500C3E6F0 /* ContentView.swift */,
+				520B0A2D2BD1015200C3E6F0 /* OnboardingView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		520B0A0B2BD0DAA000C3E6F0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				520B0A112BD0F84B00C3E6F0 /* Font */,
+				520B09FE2BD0DA7600C3E6F0 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		520B0A0C2BD0DB0E00C3E6F0 /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				520B0A0F2BD0DBA600C3E6F0 /* LaunchScreen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		520B0A112BD0F84B00C3E6F0 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				520B0A172BD0F8AF00C3E6F0 /* Inter-Black.ttf */,
+				520B0A142BD0F8AF00C3E6F0 /* Inter-Bold.ttf */,
+				520B0A192BD0F8AF00C3E6F0 /* Inter-ExtraBold.ttf */,
+				520B0A1A2BD0F8AF00C3E6F0 /* Inter-ExtraLight.ttf */,
+				520B0A252BD0FB9900C3E6F0 /* Jacquard24-Regular.ttf */,
+				520B0A182BD0F8AF00C3E6F0 /* Inter-Light.ttf */,
+				520B0A162BD0F8AF00C3E6F0 /* Inter-Medium.ttf */,
+				520B0A122BD0F8AF00C3E6F0 /* Inter-Regular.ttf */,
+				520B0A132BD0F8AF00C3E6F0 /* Inter-SemiBold.ttf */,
+				520B0A152BD0F8AF00C3E6F0 /* Inter-Thin.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		520B0A272BD0FC5C00C3E6F0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				520B0A282BD0FC7000C3E6F0 /* Onboarding.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		520B0A2A2BD0FED900C3E6F0 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				520B0A2B2BD0FEF100C3E6F0 /* OnboardingSingleView.swift */,
+				520B0A2F2BD105D900C3E6F0 /* CustomDotIndicator.swift */,
+			);
+			path = Component;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +228,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				520B0A212BD0F8AF00C3E6F0 /* Inter-Light.ttf in Resources */,
+				520B0A222BD0F8AF00C3E6F0 /* Inter-ExtraBold.ttf in Resources */,
+				520B0A1D2BD0F8AF00C3E6F0 /* Inter-Bold.ttf in Resources */,
+				520B0A202BD0F8AF00C3E6F0 /* Inter-Black.ttf in Resources */,
+				520B0A102BD0DBA600C3E6F0 /* LaunchScreen.storyboard in Resources */,
 				520B0A022BD0DA7600C3E6F0 /* Preview Assets.xcassets in Resources */,
+				520B0A1B2BD0F8AF00C3E6F0 /* Inter-Regular.ttf in Resources */,
+				520B0A232BD0F8AF00C3E6F0 /* Inter-ExtraLight.ttf in Resources */,
+				520B0A262BD0FB9900C3E6F0 /* Jacquard24-Regular.ttf in Resources */,
+				520B0A1F2BD0F8AF00C3E6F0 /* Inter-Medium.ttf in Resources */,
+				520B0A1C2BD0F8AF00C3E6F0 /* Inter-SemiBold.ttf in Resources */,
 				520B09FF2BD0DA7600C3E6F0 /* Assets.xcassets in Resources */,
+				520B0A1E2BD0F8AF00C3E6F0 /* Inter-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +251,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				520B0A292BD0FC7000C3E6F0 /* Onboarding.swift in Sources */,
+				520B0A2C2BD0FEF100C3E6F0 /* OnboardingSingleView.swift in Sources */,
+				520B0A302BD105D900C3E6F0 /* CustomDotIndicator.swift in Sources */,
 				520B09FD2BD0DA7500C3E6F0 /* ContentView.swift in Sources */,
+				520B0A2E2BD1015200C3E6F0 /* OnboardingView.swift in Sources */,
 				520B09FB2BD0DA7500C3E6F0 /* MontraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,9 +392,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Montra/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Montra/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -302,9 +422,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Montra/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Montra/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
